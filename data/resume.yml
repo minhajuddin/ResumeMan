@@ -11,47 +11,51 @@ headers:
     projects: Projects
 
 info:
-    name: Full Name
+    name: Khaja Minhajuddin
     # dob: 1980-01-01 # not mandatory
-    shortdesc: Job Title
-    email: example@example.com
-    phone: (313) - 867-5309 # not mandatory
-    homepage: http://example.com/ # not mandatory
+    shortdesc: Programmer
+    email: minhajuddink@gmail.com
+    phone: #(313) - 867-5309 # not mandatory
+    homepage: http://minhajuddin.com/ # not mandatory
     address:
-        street: 123 Fake Street
-        city: City
-        region: Region # not mandatory
-        postal_code: 12345 # not mandatory
-        country: Country # not mandatory
+        street: Mehdipatnam
+        city: Hyderabad
+        region: Telangana # not mandatory
+        postal_code: 500028 # not mandatory
+        country: India # not mandatory
     desc: |
-        Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+        I am a Passionate (with a capital P ;) programmer.
 
 skills:
     - name: Web design
-      desc: Assertively exploit wireless initiatives rather than synergistic core competencies.
+      desc: I build awesome web applications.
     - name: Interface Design
-      desc: Credibly streamline mission-critical value with multifunctional functionalities.
-    - name: Project Direction
-      desc: Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+      desc: I build simple and powerful user interfaces
+    - name: Performant Code
+      desc: I write code which is highly performant.
 
 languages:
-    - name: Gibberish
-      level: Native language
-    - name: Manager Speak
-      level: Fluent
+    - name: English
+      level: "5/5"
+    - name: Hindi
+      level: "4/5"
+    - name: Urdu
+      level: "5/5"
+    - name: Telugu
+      level: "4/5"
 
 alphabetsoup:
-    - XHTML
+    - HTML
     - CSS
     - Javascript
 
     - Jquery
-    - PHP
-    - CVS / Subversion
+    - Angular.js
+    - Git
 
-    - OS X
-    - Windows XP/Vista
-    - Linux
+    - Ruby
+    - Golang
+    - Elixir
 
 links:
     - name: Link1
